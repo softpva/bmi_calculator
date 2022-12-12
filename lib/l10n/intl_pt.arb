@@ -1,0 +1,13 @@
+{    
+    "bmiCalculator": "Calculadora de IMC para Adultos",
+    "weight": "Peso",
+    "height": "Altura",
+    "calculate": "Calcular",
+    "underWeight": "Abaixo do Peso (IMC=",
+    "tryToReach": "Tente atingir",
+    "rightWeight": "Parabéns, peso correto (IMC=",
+    "slightlyOverweight": "Levemente acima do peso (IMC=",
+    "class1": "Obesidade Grau I (IMC=",
+    "class2": "Obesidade Grau II (IMC=",
+    "class3": "Obesidade Grau III (IMC="
+}

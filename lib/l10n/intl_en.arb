@@ -1,0 +1,14 @@
+{    
+    "bmiCalculator": "Adult BMI Calculator",
+    "weight": "Weight",
+    "height": "Height",
+    "calculate": "Calculate",    
+    "underWeight": "Under Weight (BMI=",
+    "tryToReach": "Try to reach",
+    "rightWeight": "Congrats, right weight (BMI=",
+    "slightlyOverweight": "Slightly Overweight (BMI=",
+    "class1": "Class 1 Obesity (BMI=",
+    "class2": "Class 2 Obesity (BMI=",
+    "class3": "Class 3 Obesity (BMI="
+
+}
