@@ -46,21 +46,22 @@
 > ## Um exemplo de pessoa com obesidade classe 3 (en, lb/in) 
 > ![Obesity 2 example](readme/images/obesity_3_en_lbin.gif "An example of a person with obesity class 3")
 
-# Tecnologías
-> - Lenguaje Dart
-> - FlutterFramework
-> - Package I10n
+# Tecnologias
+> - Dart Language
+> - Flutter Framework
+> - I10n package
 
-# correr
-> - Compilar para android o ios o web o windows.
-> - Instalar y ejecutar.
+# Rodando o app
+> - Compilar para android ou ios ou web ou windows.
+> - Instalar e rodar.
 
 # Versión Pro
-> - Aplicación multiusuario.
-> - Resultado guardado en db para uso futuro.
-> - Fecha estimada para alcanzar un peso determinado.
-> - Otros idiomas además del portugués e inglés.
-> - Muchas otras configuraciones, seguridad e informes.
+> - Aplicação Multiusuário.
+> - Salve os dados em um bd para uso futuro.
+> - Estima uma data para atingir um determinado peso.
+> - Outros idiomas.
+> - Outras configurações de segurança e relatórios.
+
 
 # Author
 > Pedro Vitor Abreu

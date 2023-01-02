@@ -45,3 +45,26 @@
 
 > ## Ejemplo de persona con obesidad clase 3 (en, lb/in)
 > ![Ejemplo de obesidad 2](readme/images/obesity_3_en_lbin.gif "Un ejemplo de persona con obesidad clase 3")
+
+# Tecnologías
+> - Lenguaje Dart
+> - FlutterFramework
+> - Package I10n
+
+# Rodando o app
+> - Compilar para android o ios o web o windows.
+> - Instalar y ejecutar.
+
+# Versión Pro
+> - Aplicación multiusuario.
+> - Resultado guardado en db para uso futuro.
+> - Fecha estimada para alcanzar un peso determinado.
+> - Otros idiomas además del portugués e inglés.
+> - Muchas otras configuraciones, seguridad e informes.
+
+# Author
+> Pedro Vitor Abreu
+>
+> <soft.pva@gmail.com>
+>
+> <https://github.com/softpva>
